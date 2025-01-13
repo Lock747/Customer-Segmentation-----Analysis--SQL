@@ -233,7 +233,7 @@ RFM_Score	    gender	    number_gender
 ![image](https://github.com/user-attachments/assets/89c1c477-596a-40ba-b6ad-8ab531fd502f)
 
 
-**2.4 Job Industry Customer Distribution**
+
 
 
 
